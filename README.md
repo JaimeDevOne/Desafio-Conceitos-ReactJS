@@ -11,7 +11,7 @@ Essa será uma aplicação que irá armazenar repositórios do meu portfólio, q
 
 ### Funcionalidades da aplicação
 
-<b>```✔Listar os repositórios da API```</b> Deve ser capaz de criar uma lista com o campo **title** de todos os repositórios que estão cadastrados na API.
+<b>```✔Listar os repositórios da API```:</b> Deve ser capaz de criar uma lista com o campo **title** de todos os repositórios que estão cadastrados na API.
 
 <b>```✔Adicionar um repositório na API```:</b> Deve ser capaz de adicionar um novo item na API através de um botão com o texto **Adicionar** e após a criação, deve ser capaz de exibir o nome dele após o cadastro.
 
